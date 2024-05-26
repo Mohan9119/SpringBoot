@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;upload&apos; to &apos;static&apos;&#x0D;&#x0A;- Original project: &apos;app9&apos;&#x0D;&#x0A;- Destination element: &apos;static&apos;&#x0D;&#x0A;- Original element: &apos;app9/src/main/resources/upload&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" element1="/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/&lt;upload" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1709525789743" target="src/main/resources/static" version="1.0"/>
+</session>

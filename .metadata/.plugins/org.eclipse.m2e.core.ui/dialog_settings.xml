@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\SpringBoot-dev\app11\app11"/>
+			<item value="C:\SpringBoot-dev\app10"/>
+			<item value="C:\SpringBoot-dev\app9"/>
+			<item value="C:\SpringBoot-dev\app8"/>
+			<item value="C:\SpringBoot-dev\app7\app7"/>
+			<item value="C:\SpringBoot-dev\app6\app6"/>
+			<item value="C:\SpringBoot-dev\app5\app5"/>
+			<item value="C:\SpringBoot-dev\app4\app4"/>
+			<item value="C:\SpringBoot-dev\app3"/>
+			<item value="C:\SpringBoot-dev\ThemeLeaf"/>
+			<item value="C:\SpringBoot-dev\app2"/>
+			<item value="C:\SpringBoot-dev\app1"/>
+			<item value="C:\SpringBoot-dev\demo1\demo1"/>
+			<item value="C:\SpringBoot-dev\demo\demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
